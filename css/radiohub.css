@@ -1,0 +1,48 @@
+a#logo-container {
+    padding-left : 78px;
+    padding-right : 78px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+    margin-bottom: 39px;
+}
+header, main, footer {
+   padding-left: 300px;
+ }
+
+ @media only screen and (max-width : 992px) {
+   header, main, footer {
+     padding-left: 0;
+   }
+ }
+@media only screen and (max-width : 500px) {
+   h1.header {
+     font-size: 3rem;
+   }
+ }
+h1.header
+
+.radio-player.background {
+    
+    overflow: hidden;
+    width : 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sm2-bar-ui {
+ font-size: 22px;
+}
+.sm2-bar-ui .sm2-main-controls,
+.sm2-bar-ui .sm2-playlist-drawer {
+ background-color: #636d73;
+}
+.sm2-bar-ui .sm2-inline-texture {
+ background: transparent;
+}
+i.large.material-icons {
+    font-size: 2.5rem;
+}
+a.button-collapse.top-nav i {
+    font-size: 32px;
+}
