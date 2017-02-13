@@ -22,7 +22,7 @@ header, main, footer {
 h1.header
 
 .radio-player.background {
-    
+
     overflow: hidden;
     width : 50px;
     height: 50px;
@@ -45,4 +45,8 @@ i.large.material-icons {
 }
 a.button-collapse.top-nav i {
     font-size: 32px;
+}
+.section.main_content {
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
