@@ -294,7 +294,7 @@
 </node>
 <node TEXT="catalogue" POSITION="left" ID="ID_17239049" CREATED="1487191395004" MODIFIED="1487191402342">
 <edge COLOR="#ff0000"/>
-<node TEXT="RMC" ID="ID_350459643" CREATED="1487191418872" MODIFIED="1487191422299">
+<node TEXT="RMC" FOLDED="true" ID="ID_350459643" CREATED="1487191418872" MODIFIED="1487191422299">
 <node TEXT="program" ID="ID_427111883" CREATED="1487191425090" MODIFIED="1487191430363">
 <node TEXT="http://web.archive.org/web/20170126205107/http://rmc.bfmtv.com/grille-radio/" ID="ID_586983884" CREATED="1487191432754" MODIFIED="1487191435193"/>
 <node TEXT="http://www.tablesgenerator.com/markdown_tables#" ID="ID_1851534654" CREATED="1487258088616" MODIFIED="1487258093897"/>
@@ -314,7 +314,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_297793969" CREATED="1487248221980" MODIFIED="1487248221980"><richcontent TYPE="NODE">
@@ -333,7 +332,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1629893514" CREATED="1487248222019" MODIFIED="1487248222019"><richcontent TYPE="NODE">
@@ -352,7 +350,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_582202969" CREATED="1487248222025" MODIFIED="1487248222025"><richcontent TYPE="NODE">
@@ -371,7 +368,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1987204543" CREATED="1487248222030" MODIFIED="1487248222030"><richcontent TYPE="NODE">
@@ -390,7 +386,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_260169252" CREATED="1487248222036" MODIFIED="1487248222036"><richcontent TYPE="NODE">
@@ -409,7 +404,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1619571063" CREATED="1487248222041" MODIFIED="1487248222041"><richcontent TYPE="NODE">
@@ -428,7 +422,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1054214584" CREATED="1487248222047" MODIFIED="1487248222047"><richcontent TYPE="NODE">
@@ -447,7 +440,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_835908820" CREATED="1487248222051" MODIFIED="1487248222051"><richcontent TYPE="NODE">
@@ -466,7 +458,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_608802344" CREATED="1487248222056" MODIFIED="1487248222056"><richcontent TYPE="NODE">
@@ -485,7 +476,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1819421953" CREATED="1487248222061" MODIFIED="1487248222061"><richcontent TYPE="NODE">
@@ -504,7 +494,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1312967724" CREATED="1487248222066" MODIFIED="1487248222066"><richcontent TYPE="NODE">
@@ -523,7 +512,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_355442798" CREATED="1487248222071" MODIFIED="1487248222071"><richcontent TYPE="NODE">
@@ -542,7 +530,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_656462003" CREATED="1487248222076" MODIFIED="1487248222076"><richcontent TYPE="NODE">
@@ -561,7 +548,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_254874880" CREATED="1487248222080" MODIFIED="1487248222080"><richcontent TYPE="NODE">
@@ -580,7 +566,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1176463323" CREATED="1487248222085" MODIFIED="1487248222085"><richcontent TYPE="NODE">
@@ -599,7 +584,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_585761496" CREATED="1487248222090" MODIFIED="1487248222090"><richcontent TYPE="NODE">
@@ -618,7 +602,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_939720661" CREATED="1487248222095" MODIFIED="1487248222095"><richcontent TYPE="NODE">
@@ -637,7 +620,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_627561386" CREATED="1487248222099" MODIFIED="1487248222099"><richcontent TYPE="NODE">
@@ -656,7 +638,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1119047929" CREATED="1487248222103" MODIFIED="1487248222103"><richcontent TYPE="NODE">
@@ -675,7 +656,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_304748212" CREATED="1487248222108" MODIFIED="1487248222108"><richcontent TYPE="NODE">
@@ -694,11 +674,11 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 </node>
+<node TEXT="Europe1" ID="ID_1514060535" CREATED="1487282654378" MODIFIED="1487282657219"/>
 </node>
 </node>
 </map>
