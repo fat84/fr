@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content=FranceRadios une plateforme moderne pour écouter les radios de France. Découvrez un catalogue riche et régulièrement mis à jour par nos équipes.
 >
-  <title>FranceRadios.org pour écouter la radio gratuitement</title>
+  <title>Catalogue des Directs des Radio de France </title>
   <!-- Favicons-->
   <link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA/wAAAP///wAAAP8Av7+/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARFEREQzAAERESIiIjMzMRERIiIiMzMxEREiIiIzMzERESIiIjMzMRERIiIiMzMxEREiIiIzMzERESIiIjMzMRERIiIiMzMxEREiIiIzMzERESIiIjMzMRERIiIiMzMxERFEREQzMzEREAAABDMzD//wAA//8AAMAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwQAA" rel="icon" type="image/x-icon" />
 
@@ -14,7 +14,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" rel="stylesheet" type="text/css">
   <link href="css/radiohub.css" rel="stylesheet" type="text/css">
-  
+  <link href="https://cdn.datatables.net/1.10.13/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -51,9 +51,9 @@
     <div class="section" id="index-banner">
       <div class="container">
 
-        <h1 class="header center">FranceRadios.org</h1>
+        <h1 class="header center">FranceRadios.org les Directs</h1>
         <div class="row center">
-          <h4 class="header col s12 center">Une plateforme moderne pour écouter les radios de France en ligne et gratuitement</h4>
+          <h4 class="header col s12 center">Vous pouvez chercher dans ce tableau-catalogue vos stations préférées. Cliquez sur lien identifié pour commencer l'écoute du Direct</h4>
         </div>
 
 
@@ -63,12 +63,56 @@
 
     </div>
     <div class="section">
-      <div class="row">
-
+      <div class="container">
+        <table id="example" class="display browser-default" cellspacing="0" width="100%">
+          <thead>
+            <tr>
+              <th>Radio</th>
+              <th>Logo</th>
+              <th>Type</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+            
+            <tr>
+              <td><a href="http://franceradios.org/rtl">RFM</a></td>
+              <td><img src="images//rtl-mini_logo.png"></td>
+              <td></td>
+              <td>Radio d'informations et d'actualité. Politique, culture, économie, sport : l'actualité en France et à l'international par la rédaction d'RTL.
+</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://franceradios.org/rmc">RMC Radio</a></td>
+              <td><img src="images//rmc-mini_logo.png"></td>
+              <td></td>
+              <td>RMC Info Talk Sport est une radio très populaire en France. Sa grille de programmation principalement composée d'information, de talk, de directs d'évènements sportifs animés par des consultants qui sont des champions ou des entraineurs de renommée.
+</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://franceradios.org/rtl">RTL</a></td>
+              <td><img src="images//rtl-mini_logo.png"></td>
+              <td>généraliste</td>
+              <td>Radio d'informations et d'actualité. Politique, culture, économie, sport : l'actualité en France et à l'international par la rédaction d'RTL.
+</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://franceradios.org/europe1-direct">Europe 1</a></td>
+              <td><img src="images//europe1-mini_logo.png"></td>
+              <td></td>
+              <td>Radio d'informations et d'actualité. Politique, culture, économie, sport : l'actualité en France et à l'international par la rédaction d'Europe1.
+</td>
+            </tr>
+            
+          </tbody>
+        </table>
       </div>
 
     </div>
-    
 
   </main>
 </body>
@@ -78,8 +122,17 @@
 <!-- Scripts-->
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/materialize.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+
 <script>
 $(".button-collapse").sideNav();
+$(document).ready(function() {
+  $('#example').DataTable({
+    "pageLength": -1,
+    "lengthChange" : false,
+    "paging":   false
+  });
+} );
 </script>
 
 </html>
