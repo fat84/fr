@@ -81,7 +81,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="16" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="DOCTYPE" POSITION="left" ID="ID_1318120171" CREATED="1487172869759" MODIFIED="1487173158117">
 <edge COLOR="#00ff00"/>
 <node TEXT="HTML" ID="ID_1346793767" CREATED="1487173160333" MODIFIED="1487173162792">
@@ -301,7 +301,7 @@
 <node TEXT="catalogue" POSITION="left" ID="ID_17239049" CREATED="1487191395004" MODIFIED="1487191402342">
 <edge COLOR="#ff0000"/>
 <node TEXT="RMC" FOLDED="true" ID="ID_350459643" CREATED="1487191418872" MODIFIED="1487191422299">
-<node TEXT="program" ID="ID_427111883" CREATED="1487191425090" MODIFIED="1487191430363">
+<node TEXT="program" FOLDED="true" ID="ID_427111883" CREATED="1487191425090" MODIFIED="1487191430363">
 <node TEXT="http://web.archive.org/web/20170126205107/http://rmc.bfmtv.com/grille-radio/" ID="ID_586983884" CREATED="1487191432754" MODIFIED="1487191435193"/>
 <node TEXT="http://www.tablesgenerator.com/markdown_tables#" ID="ID_1851534654" CREATED="1487258088616" MODIFIED="1487258093897"/>
 <node ID="ID_1500561129" CREATED="1487248221978" MODIFIED="1487248221978"><richcontent TYPE="NODE">
@@ -685,6 +685,26 @@
 </node>
 </node>
 <node TEXT="Europe1" ID="ID_1514060535" CREATED="1487282654378" MODIFIED="1487282657219"/>
+<node TEXT="RTL" ID="ID_1464132081" CREATED="1487589582569" MODIFIED="1487589584880">
+<node TEXT="SEO" ID="ID_203452417" CREATED="1487589585977" MODIFIED="1487589587573">
+<node TEXT="http://www.nouveautes-tele.com/1754-grille-rtl-rentree-septembre-programmes-nouveautes.html/comment-page-1#comment-250131" ID="ID_1651728447" CREATED="1487589589053" MODIFIED="1487589589053" LINK="http://www.nouveautes-tele.com/1754-grille-rtl-rentree-septembre-programmes-nouveautes.html/comment-page-1#comment-250131"/>
+</node>
+</node>
+</node>
+<node TEXT="Concurrents" POSITION="left" ID="ID_60822803" CREATED="1487581158805" MODIFIED="1487581162687">
+<edge COLOR="#00ff00"/>
+<node TEXT="http://www.radioline.co/podcast-europe-1-hondelatte-raconte" ID="ID_1377896610" CREATED="1487581164302" MODIFIED="1487581164302" LINK="http://www.radioline.co/podcast-europe-1-hondelatte-raconte"/>
+</node>
+<node TEXT="Content Channel" POSITION="left" ID="ID_229839218" CREATED="1487589280986" MODIFIED="1487589289484">
+<edge COLOR="#00ffff"/>
+<node TEXT="http://www.nouveautes-tele.com/" ID="ID_1807956454" CREATED="1487589291477" MODIFIED="1487589291477" LINK="http://www.nouveautes-tele.com/"/>
+</node>
+<node TEXT="SEO Holes" POSITION="left" ID="ID_850334084" CREATED="1487581272178" MODIFIED="1487581279948">
+<edge COLOR="#ff00ff"/>
+<node TEXT="http://blog-histoire.fr/coeur-histoire/9563-archives-dau-coeur-de-l%E2%80%99histoire.html" ID="ID_765286060" CREATED="1487581281178" MODIFIED="1487581281178" LINK="http://blog-histoire.fr/coeur-histoire/9563-archives-dau-coeur-de-l%E2%80%99histoire.html"/>
+<node TEXT="http://www.nouveautes-tele.com/" ID="ID_363443274" CREATED="1487589291477" MODIFIED="1487589291477" LINK="http://www.nouveautes-tele.com/">
+<node TEXT="with moderation" ID="ID_1712146812" CREATED="1487589601323" MODIFIED="1487589608035"/>
+</node>
 </node>
 </node>
 </map>
