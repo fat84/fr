@@ -702,9 +702,10 @@
 <node TEXT="SEO Holes" POSITION="left" ID="ID_850334084" CREATED="1487581272178" MODIFIED="1487581279948">
 <edge COLOR="#ff00ff"/>
 <node TEXT="http://blog-histoire.fr/coeur-histoire/9563-archives-dau-coeur-de-l%E2%80%99histoire.html" ID="ID_765286060" CREATED="1487581281178" MODIFIED="1487581281178" LINK="http://blog-histoire.fr/coeur-histoire/9563-archives-dau-coeur-de-l%E2%80%99histoire.html"/>
-<node TEXT="http://www.nouveautes-tele.com/" ID="ID_363443274" CREATED="1487589291477" MODIFIED="1487589291477" LINK="http://www.nouveautes-tele.com/">
+<node TEXT="http://www.nouveautes-tele.com/" FOLDED="true" ID="ID_363443274" CREATED="1487589291477" MODIFIED="1487589291477" LINK="http://www.nouveautes-tele.com/">
 <node TEXT="with moderation" ID="ID_1712146812" CREATED="1487589601323" MODIFIED="1487589608035"/>
 </node>
+<node TEXT="https://www.e-monsite.com/pages/offres/creer-un-site-gratuitement.html" ID="ID_1010113045" CREATED="1487699824233" MODIFIED="1487699827215"/>
 </node>
 </node>
 </map>
