@@ -701,7 +701,6 @@
     <span http-equiv="content-type" content="text/html; charset=utf-8" style="color: rgb(39, 39, 39); font-family: Open Sans, sans-serif; font-size: 13px; font-style: normal; font-weight: 600; letter-spacing: normal; line-height: 19.5px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)"><font color="rgb(39, 39, 39)" face="Open Sans, sans-serif" size="13px"><b>Cr&#233;&#233;e en 1963, France Inter, le &#171;vaisseau amiral&#187; de Radio France est la radio g&#233;n&#233;raliste par excellence.</b></font></span><font color="rgb(39, 39, 39)" face="Open Sans, sans-serif" size="13px"><b><br align="justify" style="letter-spacing: normal; line-height: 19.5px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)"/><br align="justify" style="letter-spacing: normal; line-height: 19.5px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)"/><span style="color: rgb(39, 39, 39); font-family: Open Sans, sans-serif; font-size: 13px; font-style: normal; font-weight: 600; letter-spacing: normal; line-height: 19.5px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">Information, d&#233;bat d'id&#233;es, divertissement, culture... aucun programme ne manque &#224; l'appel de cette cha&#238;ne qui affiche sa diff&#233;rence et dont l'ambition est de rassembler le plus grand nombre. France Inter offre &#233;galement une programmation musicale ambitieuse, constitu&#233;e &#224; 50% de titres francophones, et comportant 60% de nouveaut&#233;s, dont une majorit&#233; de nouveaux talents.</span></b></font> 
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="En 1947, une petite station parisienne, Paris-Inter, diffuse ses programmes sur un &#xe9;metteur utilis&#xe9; jusque-la par les forces am&#xe9;ricaines. Ses programmes sont constitu&#xe9;s d&apos;un journal toutes les heures, s&#xe9;par&#xe9;s par des &#xe9;missions musicales, culturelles, de divertissement, etc.." ID="ID_1851731828" CREATED="1488190563750" MODIFIED="1488190613750"/>
@@ -715,15 +714,15 @@
     <span http-equiv="content-type" content="text/html; charset=utf-8" style="color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)"><font color="rgb(51, 51, 51)" face="Arial, Helvetica, sans-serif" size="13px">La premi&#232;re radio g&#233;n&#233;raliste Fran&#231;aise. Ecoutez nos &#233;missions culturelles, politiques, sportives et ludiques. Ne manquez rien sur l&#8217;actualit&#233; et apprenez avec les meilleurs experts.</font></span> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
 </node>
-<node TEXT="Concurrents" FOLDED="true" POSITION="left" ID="ID_60822803" CREATED="1487581158805" MODIFIED="1487581162687">
+<node TEXT="Concurrents" POSITION="left" ID="ID_60822803" CREATED="1487581158805" MODIFIED="1487581162687">
 <edge COLOR="#00ff00"/>
 <node TEXT="http://www.radioline.co/podcast-europe-1-hondelatte-raconte" ID="ID_1377896610" CREATED="1487581164302" MODIFIED="1487581164302" LINK="http://www.radioline.co/podcast-europe-1-hondelatte-raconte"/>
 <node TEXT="http://radios-france.com/stations/" ID="ID_1921015969" CREATED="1488190430467" MODIFIED="1488190430467" LINK="http://radios-france.com/stations/"/>
+<node TEXT="http://direct-radio.fr/" ID="ID_590150376" CREATED="1488270650864" MODIFIED="1488270650864" LINK="http://direct-radio.fr/"/>
 </node>
 <node TEXT="Content Channel" POSITION="left" ID="ID_229839218" CREATED="1487589280986" MODIFIED="1487589289484">
 <edge COLOR="#00ffff"/>
@@ -749,7 +748,6 @@
     <span http-equiv="content-type" content="text/html; charset=utf-8" style="color: rgb(39, 39, 39); font-family: Open Sans, sans-serif; font-size: 13px; font-style: normal; font-weight: 600; letter-spacing: normal; line-height: 19.5px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)"><font color="rgb(39, 39, 39)" face="Open Sans, sans-serif" size="13px"><b>Le site Radio France vous propose une s&#233;lection des radios les plus &#233;cout&#233;es. Nous vous proposons le meilleur de la musique &#224; travers une large palette de genre: Vari&#233;t&#233;, Rock, Pop, Jazz, Musique Classique&#8230;</b></font></span><font color="rgb(39, 39, 39)" face="Open Sans, sans-serif" size="13px"><b><br align="justify" style="letter-spacing: normal; line-height: 19.5px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)"/><br align="justify" style="letter-spacing: normal; line-height: 19.5px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255)"/><span style="color: rgb(39, 39, 39); font-family: Open Sans, sans-serif; font-size: 13px; font-style: normal; font-weight: 600; letter-spacing: normal; line-height: 19.5px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">La radio que vous &#234;tes en train cours est NOVA :)</span></b></font> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
