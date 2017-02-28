@@ -727,6 +727,7 @@
 <node TEXT="Content Channel" POSITION="left" ID="ID_229839218" CREATED="1487589280986" MODIFIED="1487589289484">
 <edge COLOR="#00ffff"/>
 <node TEXT="http://www.nouveautes-tele.com/" ID="ID_1807956454" CREATED="1487589291477" MODIFIED="1487589291477" LINK="http://www.nouveautes-tele.com/"/>
+<node TEXT="https://www.chantefrance.com/artists" ID="ID_973314831" CREATED="1488287560649" MODIFIED="1488287560649" LINK="https://www.chantefrance.com/artists"/>
 </node>
 <node TEXT="SEO Holes" POSITION="left" ID="ID_850334084" CREATED="1487581272178" MODIFIED="1487581279948">
 <edge COLOR="#ff00ff"/>
