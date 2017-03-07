@@ -723,6 +723,8 @@
 <node TEXT="http://www.radioline.co/podcast-europe-1-hondelatte-raconte" ID="ID_1377896610" CREATED="1487581164302" MODIFIED="1487581164302" LINK="http://www.radioline.co/podcast-europe-1-hondelatte-raconte"/>
 <node TEXT="http://radios-france.com/stations/" ID="ID_1921015969" CREATED="1488190430467" MODIFIED="1488190430467" LINK="http://radios-france.com/stations/"/>
 <node TEXT="http://direct-radio.fr/" ID="ID_590150376" CREATED="1488270650864" MODIFIED="1488270650864" LINK="http://direct-radio.fr/"/>
+<node TEXT="http://kradios.com/nova/" ID="ID_1443807380" CREATED="1488815831589" MODIFIED="1488815831589" LINK="http://kradios.com/nova/"/>
+<node TEXT="http://www.frequence-radio.com/" ID="ID_1515697312" CREATED="1488882565241" MODIFIED="1488882565241" LINK="http://www.frequence-radio.com/"/>
 </node>
 <node TEXT="Content Channel" POSITION="left" ID="ID_229839218" CREATED="1487589280986" MODIFIED="1487589289484">
 <edge COLOR="#00ffff"/>
